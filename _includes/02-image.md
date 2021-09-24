@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of KrimblKrum](https://images.app.goo.gl/iVpZHZWhnTBMz5eW9)
